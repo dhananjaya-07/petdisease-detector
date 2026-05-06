@@ -18,7 +18,7 @@ Input: Pet skin image (JPG/PNG)
 Output: Predicted condition + confidence score
 
 📁 Project Structure
-
+'''bash
 petvision/
 ├── api.py
 ├── model.py
