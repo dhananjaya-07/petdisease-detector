@@ -17,8 +17,10 @@ Framework: PyTorch
 Input: Pet skin image (JPG/PNG)
 Output: Predicted condition + confidence score
 
-📁 Project Structure
-'''bash
+```md
+## 📁 Project Structure
+
+```bash
 petvision/
 ├── api.py
 ├── model.py
