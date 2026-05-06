@@ -19,6 +19,7 @@ Output: Predicted condition + confidence score
 
 
 📁 Project Structure
+
 petvision/
 ├── api.py          # FastAPI server
 ├── model.py        # ResNet50 model definition
