@@ -17,14 +17,15 @@ Framework: PyTorch
 Input: Pet skin image (JPG/PNG)
 Output: Predicted condition + confidence score
 
-
 📁 Project Structure
 
 petvision/
-├── api.py          # FastAPI server
-├── model.py        # ResNet50 model definition
-├── predict.py      # Prediction engine
-├── train.py        # Training script
-├── dataset.py      # Dataset loader
-├── requirments.txt # Dependencies
-└── best_model.pth  # Model weights (download separately)
+├── api.py
+├── model.py
+├── predict.py
+├── train.py
+├── dataset.py
+├── requirements.txt
+├── best_model.pth
+├── dataset/
+└── models/
